@@ -21,7 +21,7 @@ tab.newButton(
 
 tab.newButton(
     "Nexus Hub",
-    "Status: 🔴 It's Broken Guys, Use Yarhm Or R3TH PRIV :D",
+    "Status: 🟢 Silent Aim Fixed! :D",
     function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/NexusHub/main/V3"))()
     end
